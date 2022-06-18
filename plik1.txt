@@ -1,2 +1,3 @@
 hello plik 1 txt
-linika
+lnijka nowa
+linijka nowa 2 est
