@@ -1,3 +1,8 @@
 hello plik 1 txt
 lnijka nowa
 linijka nowa 2 est
+1
+2
+9
+3
+5
